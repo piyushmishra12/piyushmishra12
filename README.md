@@ -1,4 +1,4 @@
-## Hi there 👋
+## Namaste, Hi, Bonjour 👋
 
 <!--
 **piyushmishra12/piyushmishra12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![An image of @piyushmishra12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyushmishra12)](https://holopin.io/@piyushmishra12)
