@@ -1,4 +1,4 @@
-## नमस्ते, ନମସ୍କାର, Hi, Bonjour 👋
+## नमस्ते, ନମସ୍କାର, Hi, Bonjour 👋 🙏
 
 <!--
 **piyushmishra12/piyushmishra12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
