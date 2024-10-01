@@ -20,7 +20,7 @@ About me / bragging (lol)
 - I try to develop AI algorithms for tracking intracellular particles to infer physiological dynamics.
 - I completed a Masters in Computational and Mathematical Biology from Aix-Marseille University. I graduated at the top of my cohort.
 - I completed a Bachelors in Computer Science and Engineering from the International Institute of Information Technology in Bhubaneswar in the scenic Eastern Indian coast.
-- I am fluent in Hindi, Odia, English and French.
+- Originally from Delhi suburbs, I am fluent in Hindi, Odia, English and French.
 - I sometimes blog at [The Anxious Journal](https://anxiousjournal.substack.com/).
 
 ##
