@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 About me / bragging (lol)
-- I'm a PhD student @ the Maths Insitute of Marseille & Fresnel Institute in the beautiful Mediterranean coast of France
+- I'm a PhD student @ the Maths Insitute of Marseille & Fresnel Institute in the beautiful Mediterranean coast of France.
 - I try to develop AI algorithms for tracking intracellular particles to infer physiological dynamics.
 - I completed a Masters in Computational and Mathematical Biology from Aix-Marseille University. I graduated at the top of my cohort.
 - I completed a Bachelors in Computer Science and Engineering from the Internation Institute of Information Technology in Bhubaneswar in the Eastern Indian coast.
