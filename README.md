@@ -21,5 +21,6 @@ About me / bragging (lol)
 - I completed a Masters in Computational and Mathematical Biology from Aix-Marseille University. I graduated at the top of my cohort.
 - I completed a Bachelors in Computer Science and Engineering from the Internation Institute of Information Technology in Bhubaneswar in the Eastern Indian coast.
 - I am fluent in Hindi, Odia, English and French.
+- I sometimes blog at [The Anxious Journal](https://anxiousjournal.substack.com/).
 
 [![An image of @piyushmishra12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyushmishra12)](https://holopin.io/@piyushmishra12)
