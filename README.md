@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About me / bragging (lol)
+About me / basically bragging
 - I'm a PhD student @ the Maths Insitute of Marseille & Fresnel Institute in the beautiful Mediterranean coast of France.
 - I try to develop AI algorithms for tracking intracellular particles to infer physiological dynamics.
 - I completed a Masters in Computational and Mathematical Biology from Aix-Marseille University. I graduated at the top of my cohort.
